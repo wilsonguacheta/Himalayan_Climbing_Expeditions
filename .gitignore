@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data procesada (reproducible desde raw)
+data/processed/
+
+# OS
+.DS_Store
+
+# instruccciones AI
+CLAUDE.md
+
+
